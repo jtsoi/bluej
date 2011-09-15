@@ -1,0 +1,7 @@
+0 - int
+"hello" - String
+101 - int
+-1 - int
+true - boolean
+"33" - String
+3.14 - double

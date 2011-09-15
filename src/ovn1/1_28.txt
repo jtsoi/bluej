@@ -1,0 +1,2 @@
+I would define a new public field of type String:
+public String name;
